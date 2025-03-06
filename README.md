@@ -28,11 +28,9 @@ This business card serves as a **digital identity** for professionals, freelance
 - Modify **contact details and links** in `index.html`.  
 - Adjust **layout and spacing** for a personalized look.  
 ## 🖼️ Image Preview  
-  
-```markdown
+
 ![alt text](image.png)  
-```  
-  
+
 ## 🔥 Future Enhancements  
 - **Dark Mode** – Add a theme switcher for better accessibility.  
 - **Animations** – Improve engagement with hover effects.  
